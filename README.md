@@ -1,5 +1,5 @@
 # Server
-
+For full description please enter to: [here](https://docs.google.com/document/d/1KMSaBgcgDb1QTxvo2JZBOVeFNRrOjDFvl1zpqSnAvSU/edit?usp=sharing)
 ## Google Cloud IoT Examples
 In here there are scripts that allow full bi-directional communication between an IoT device and a server through Google Cloud brokering.
 
